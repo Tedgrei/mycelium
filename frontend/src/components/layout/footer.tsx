@@ -30,8 +30,8 @@ export function Footer() {
 
   return (
     <footer className="border-t border-border bg-secondary/45">
-      <div className="mx-auto grid w-full max-w-7xl gap-10 px-4 py-12 sm:px-6 md:grid-cols-[1.2fr_0.8fr_0.8fr_1fr] lg:px-8">
-        <section aria-label="Mycelium">
+      <div className="mx-auto grid w-full max-w-7xl min-w-0 gap-10 px-5 py-12 sm:px-6 md:grid-cols-[minmax(0,1.2fr)_minmax(0,0.8fr)_minmax(0,0.8fr)_minmax(0,1fr)] lg:px-8">
+        <section className="min-w-0" aria-label="Mycelium">
           <Link
             href="/"
             className="inline-flex items-center gap-3 rounded-md focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 focus-visible:ring-offset-background"
@@ -59,7 +59,7 @@ export function Footer() {
         <FooterLinkGroup title="Navegação" links={primaryNavigationLinks} />
         <FooterLinkGroup title="Produtos" links={productLineLinks} />
 
-        <section aria-labelledby="footer-contact">
+        <section className="min-w-0" aria-labelledby="footer-contact">
           <h2 id="footer-contact" className="text-sm font-semibold uppercase">
             Contato
           </h2>
@@ -86,7 +86,7 @@ export function Footer() {
         </section>
       </div>
       <div className="border-t border-border/70">
-        <div className="mx-auto flex w-full max-w-7xl flex-col gap-3 px-4 py-5 text-sm text-muted-foreground sm:flex-row sm:items-center sm:justify-between sm:px-6 lg:px-8">
+        <div className="mx-auto flex w-full max-w-7xl min-w-0 flex-col gap-3 px-5 py-5 text-sm text-muted-foreground sm:flex-row sm:items-center sm:justify-between sm:px-6 lg:px-8">
           <p>© {currentYear} Mycelium. Todos os direitos reservados.</p>
           <div className="flex flex-wrap gap-x-5 gap-y-2">
             <Link
@@ -123,7 +123,7 @@ function FooterLinkGroup({ title, links }: FooterLinkGroupProps) {
     .toLowerCase()}`;
 
   return (
-    <section aria-labelledby={headingId}>
+    <section className="min-w-0" aria-labelledby={headingId}>
       <h2 id={headingId} className="text-sm font-semibold uppercase">
         {title}
       </h2>

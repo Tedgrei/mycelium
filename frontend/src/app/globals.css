@@ -49,24 +49,24 @@
 }
 
 :root {
-  --background: oklch(0.985 0.012 102);
+  --background: oklch(0.99 0.008 105);
   --foreground: oklch(0.19 0.025 145);
   --card: oklch(1 0 0);
   --card-foreground: oklch(0.19 0.025 145);
   --popover: oklch(1 0 0);
   --popover-foreground: oklch(0.19 0.025 145);
-  --primary: oklch(0.39 0.08 153);
-  --primary-foreground: oklch(0.985 0.012 102);
-  --secondary: oklch(0.93 0.03 105);
+  --primary: oklch(0.43 0.065 153);
+  --primary-foreground: oklch(0.99 0.008 105);
+  --secondary: oklch(0.95 0.02 105);
   --secondary-foreground: oklch(0.24 0.04 145);
-  --muted: oklch(0.94 0.018 95);
-  --muted-foreground: oklch(0.43 0.028 128);
-  --accent: oklch(0.88 0.06 126);
+  --muted: oklch(0.96 0.012 95);
+  --muted-foreground: oklch(0.45 0.025 128);
+  --accent: oklch(0.92 0.04 126);
   --accent-foreground: oklch(0.21 0.045 145);
   --destructive: oklch(0.577 0.245 27.325);
-  --border: oklch(0.84 0.025 105);
-  --input: oklch(0.84 0.025 105);
-  --ring: oklch(0.52 0.075 153);
+  --border: oklch(0.88 0.018 105);
+  --input: oklch(0.88 0.018 105);
+  --ring: oklch(0.56 0.06 153);
   --chart-1: oklch(0.63 0.12 153);
   --chart-2: oklch(0.58 0.1 92);
   --chart-3: oklch(0.46 0.06 220);
@@ -125,12 +125,13 @@
     @apply bg-background text-foreground;
     background-image: linear-gradient(
       135deg,
-      oklch(0.98 0.035 102),
-      oklch(0.88 0.095 145)
+      oklch(0.99 0.022 102),
+      oklch(0.94 0.05 145)
     );
   }
   html {
     @apply font-sans;
+    scroll-padding-top: 5rem;
   }
 }
 
@@ -138,40 +139,40 @@
   .section-gradient-hero {
     background-image: linear-gradient(
       135deg,
-      oklch(0.98 0.045 102),
-      oklch(0.9 0.11 145)
+      oklch(0.995 0.025 102),
+      oklch(0.94 0.06 145)
     );
   }
 
   .section-gradient-products {
     background-image: linear-gradient(
       135deg,
-      oklch(0.99 0.035 86),
-      oklch(0.91 0.085 132)
+      oklch(0.995 0.02 86),
+      oklch(0.95 0.048 132)
     );
   }
 
   .section-gradient-cultivation {
     background-image: linear-gradient(
       135deg,
-      oklch(0.94 0.06 155),
-      oklch(0.88 0.08 205)
+      oklch(0.965 0.04 155),
+      oklch(0.93 0.045 205)
     );
   }
 
   .section-gradient-technology {
     background-image: linear-gradient(
       135deg,
-      oklch(0.97 0.045 118),
-      oklch(0.9 0.075 75)
+      oklch(0.985 0.025 118),
+      oklch(0.94 0.045 75)
     );
   }
 
   .section-gradient-contact {
     background-image: linear-gradient(
       135deg,
-      oklch(0.38 0.11 150),
-      oklch(0.48 0.12 105)
+      oklch(0.45 0.085 150),
+      oklch(0.54 0.08 105)
     );
   }
 }

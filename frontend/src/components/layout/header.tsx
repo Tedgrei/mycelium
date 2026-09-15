@@ -14,14 +14,14 @@ export function Header() {
       >
         Pular para o conteúdo
       </a>
-      <div className="mx-auto flex w-full max-w-7xl flex-col px-4 sm:px-6 lg:px-8">
+      <div className="mx-auto flex w-full max-w-7xl min-w-0 flex-col px-5 sm:px-6 lg:px-8">
         <div className="flex min-h-20 items-center justify-between gap-4">
           <Link
             href="/"
-            className="group inline-flex items-center gap-3 rounded-md focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 focus-visible:ring-offset-background"
+            className="group inline-flex min-w-0 items-center gap-3 rounded-md focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 focus-visible:ring-offset-background"
             aria-label="Mycelium, página inicial"
           >
-            <span className="relative block h-12 w-36 sm:w-44">
+            <span className="relative block h-12 w-32 shrink-0 sm:w-44">
               <Image
                 src="/images/logo/logo-transparent.webp"
                 alt="Mycelium"
@@ -48,7 +48,7 @@ export function Header() {
             ))}
           </nav>
 
-          <div className="flex items-center gap-2">
+          <div className="flex min-w-0 items-center gap-2">
             <Link
               href="/#contato"
               className={buttonVariants({
@@ -65,7 +65,7 @@ export function Header() {
                 <Menu className="size-5" aria-hidden="true" />
               </summary>
               <nav
-                className="absolute right-0 mt-3 w-64 rounded-md border border-border bg-popover p-2 text-popover-foreground shadow-lg"
+                className="absolute right-0 mt-3 w-[calc(100vw-40px)] max-w-64 rounded-md border border-border bg-popover p-2 text-popover-foreground shadow-lg"
                 aria-label="Menu mobile"
               >
                 {primaryNavigationLinks.map((link) => (

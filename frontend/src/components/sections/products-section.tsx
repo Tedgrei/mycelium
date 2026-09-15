@@ -7,8 +7,8 @@ export function ProductsSection() {
       id="produtos"
       className="section-gradient-products border-b border-border/70"
     >
-      <div className="mx-auto w-full max-w-7xl px-4 py-16 sm:px-6 lg:px-8">
-        <div className="max-w-2xl">
+      <div className="mx-auto w-full max-w-7xl px-5 py-16 sm:px-6 md:py-20 lg:px-8">
+        <div className="max-w-2xl min-w-0">
           <p className="text-sm font-semibold uppercase text-primary">
             Produtos
           </p>
@@ -16,7 +16,7 @@ export function ProductsSection() {
             Linhas para diferentes sistemas de cultivo
           </h2>
         </div>
-        <div className="mt-8 grid gap-5 md:grid-cols-3">
+        <div className="mt-8 grid min-w-0 gap-5 md:grid-cols-3">
           {productHighlights.map((product) => (
             <ProductCard key={product.name} product={product} />
           ))}
