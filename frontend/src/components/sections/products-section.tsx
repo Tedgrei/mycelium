@@ -1,7 +1,13 @@
-import { ProductCard } from "@/components/sections/product-card";
-import { productHighlights } from "@/features/home/home-content";
+import { ProductCatalogExplorer } from "@/components/sections/product-catalog-explorer";
+import {
+  productCatalog,
+  productLineDetails,
+  productLineOrder,
+} from "@/features/products/product-catalog";
 
 export function ProductsSection() {
+  const lines = productLineOrder.map((line) => productLineDetails[line]);
+
   return (
     <section
       id="produtos"
@@ -13,14 +19,15 @@ export function ProductsSection() {
             Produtos
           </p>
           <h2 className="mt-3 text-3xl font-semibold text-foreground">
-            Linhas para diferentes sistemas de cultivo
+            Catálogo Mycelium
           </h2>
+          <p className="mt-4 text-sm leading-6 text-muted-foreground sm:text-base">
+            Escolha uma linha para ver produtos separados por tipo e função. A
+            caixa em destaque avança devagar entre as linhas e abre a seleção
+            completa ao clicar.
+          </p>
         </div>
-        <div className="mt-8 grid min-w-0 gap-5 md:grid-cols-3">
-          {productHighlights.map((product) => (
-            <ProductCard key={product.name} product={product} />
-          ))}
-        </div>
+        <ProductCatalogExplorer products={productCatalog} lines={lines} />
       </div>
     </section>
   );

@@ -3,6 +3,7 @@ import { Geist_Mono, Nunito } from "next/font/google";
 
 import { Footer } from "@/components/layout/footer";
 import { Header } from "@/components/layout/header";
+import { CookieConsentBanner } from "@/components/layout/cookie-consent-banner";
 
 import "./globals.css";
 
@@ -31,6 +32,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
     >
       <body className="flex min-h-full flex-col overflow-x-clip">
         <Header />
+        <CookieConsentBanner />
         <main id="conteudo" className="flex-1">
           {children}
         </main>

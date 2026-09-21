@@ -1,0 +1,1031 @@
+⚠ Slow filesystem detected. The benchmark took 617ms. If \\?\E:\ProjetoLuis\mycelium\frontend\.next\dev is a network drive, consider moving it to a local folder.
+See more: https://nextjs.org/docs/app/guides/local-development
+[browser] Image with src "/images/products/Catalogo_Mycelium/Mycelium_Aqua_KN_frente_UPSCALE_HD_2x.webp" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+⨯ ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  [90m1 |[0m [36mimport[0m { [33mProductCard[0m } [36mfrom[0m [32m"@/components/sections/product-card"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m { productCatalog } [36mfrom[0m [32m"@/features/products/product-catalog"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m
+  [90m4 |[0m [36mexport[0m [36mfunction[0m [33mProductsSection[0m() {
+  [90m5 |[0m   [36mreturn[0m (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  [90m1 |[0m [36mimport[0m { [33mProductCard[0m } [36mfrom[0m [32m"@/components/sections/product-card"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m { productCatalog } [36mfrom[0m [32m"@/features/products/product-catalog"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m
+  [90m4 |[0m [36mexport[0m [36mfunction[0m [33mProductsSection[0m() {
+  [90m5 |[0m   [36mreturn[0m (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  [90m1 |[0m [36mimport[0m { [33mProductCard[0m } [36mfrom[0m [32m"@/components/sections/product-card"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m { productCatalog } [36mfrom[0m [32m"@/features/products/product-catalog"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m
+  [90m4 |[0m [36mexport[0m [36mfunction[0m [33mProductsSection[0m() {
+  [90m5 |[0m   [36mreturn[0m (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  [90m1 |[0m [36mimport[0m { [33mProductCard[0m } [36mfrom[0m [32m"@/components/sections/product-card"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m { productCatalog } [36mfrom[0m [32m"@/features/products/product-catalog"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m
+  [90m4 |[0m [36mexport[0m [36mfunction[0m [33mProductsSection[0m() {
+  [90m5 |[0m   [36mreturn[0m (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  [90m1 |[0m [36mimport[0m { [33mProductCard[0m } [36mfrom[0m [32m"@/components/sections/product-card"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m { productCatalog } [36mfrom[0m [32m"@/features/products/product-catalog"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m
+  [90m4 |[0m [36mexport[0m [36mfunction[0m [33mProductsSection[0m() {
+  [90m5 |[0m   [36mreturn[0m (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  [90m1 |[0m [36mimport[0m { [33mProductCard[0m } [36mfrom[0m [32m"@/components/sections/product-card"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m { productCatalog } [36mfrom[0m [32m"@/features/products/product-catalog"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m
+  [90m4 |[0m [36mexport[0m [36mfunction[0m [33mProductsSection[0m() {
+  [90m5 |[0m   [36mreturn[0m (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  [90m1 |[0m [36mimport[0m { [33mProductCard[0m } [36mfrom[0m [32m"@/components/sections/product-card"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m { productCatalog } [36mfrom[0m [32m"@/features/products/product-catalog"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m
+  [90m4 |[0m [36mexport[0m [36mfunction[0m [33mProductsSection[0m() {
+  [90m5 |[0m   [36mreturn[0m (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  [90m1 |[0m [36mimport[0m { [33mProductCard[0m } [36mfrom[0m [32m"@/components/sections/product-card"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m { productCatalog } [36mfrom[0m [32m"@/features/products/product-catalog"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m
+  [90m4 |[0m [36mexport[0m [36mfunction[0m [33mProductsSection[0m() {
+  [90m5 |[0m   [36mreturn[0m (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[browser] ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  1 | import { ProductCard } from "@/components/sections/product-card";
+> 2 | import { productCatalog } from "@/features/products/product-catalog";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function ProductsSection() {
+  5 |   return (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  1 | import { ProductCard } from "@/components/sections/product-card";
+> 2 | import { productCatalog } from "@/features/products/product-catalog";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function ProductsSection() {
+  5 |   return (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  1 | import { ProductCard } from "@/components/sections/product-card";
+> 2 | import { productCatalog } from "@/features/products/product-catalog";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function ProductsSection() {
+  5 |   return (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  1 | import { ProductCard } from "@/components/sections/product-card";
+> 2 | import { productCatalog } from "@/features/products/product-catalog";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function ProductsSection() {
+  5 |   return (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found 
+⨯ ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  [90m1 |[0m [36mimport[0m { [33mProductCard[0m } [36mfrom[0m [32m"@/components/sections/product-card"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m { productCatalog } [36mfrom[0m [32m"@/features/products/product-catalog"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m
+  [90m4 |[0m [36mexport[0m [36mfunction[0m [33mProductsSection[0m() {
+  [90m5 |[0m   [36mreturn[0m (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[browser] ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  1 | import { ProductCard } from "@/components/sections/product-card";
+> 2 | import { productCatalog } from "@/features/products/product-catalog";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function ProductsSection() {
+  5 |   return (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] Uncaught Error: ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  1 | import { ProductCard } from "@/components/sections/product-card";
+> 2 | import { productCatalog } from "@/features/products/product-catalog";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function ProductsSection() {
+  5 |   return (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+    at <unknown> (Error: ./src/components/sections/products-section.tsx:2:1)
+    at <unknown> (https://nextjs.org/docs/messages/module-not-found)
+    at <unknown> (Error: (./src/components/sections/products-section.tsx:2:1)
+    at <unknown> (https://nextjs.org/docs/messages/module-not-found)
+⨯ ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  [90m1 |[0m [36mimport[0m { [33mProductCard[0m } [36mfrom[0m [32m"@/components/sections/product-card"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m { productCatalog } [36mfrom[0m [32m"@/features/products/product-catalog"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m
+  [90m4 |[0m [36mexport[0m [36mfunction[0m [33mProductsSection[0m() {
+  [90m5 |[0m   [36mreturn[0m (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  [90m1 |[0m [36mimport[0m { [33mProductCard[0m } [36mfrom[0m [32m"@/components/sections/product-card"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m { productCatalog } [36mfrom[0m [32m"@/features/products/product-catalog"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m
+  [90m4 |[0m [36mexport[0m [36mfunction[0m [33mProductsSection[0m() {
+  [90m5 |[0m   [36mreturn[0m (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  [90m1 |[0m [36mimport[0m { [33mProductCard[0m } [36mfrom[0m [32m"@/components/sections/product-card"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m { productCatalog } [36mfrom[0m [32m"@/features/products/product-catalog"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m
+  [90m4 |[0m [36mexport[0m [36mfunction[0m [33mProductsSection[0m() {
+  [90m5 |[0m   [36mreturn[0m (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  [90m1 |[0m [36mimport[0m { [33mProductCard[0m } [36mfrom[0m [32m"@/components/sections/product-card"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m { productCatalog } [36mfrom[0m [32m"@/features/products/product-catalog"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m
+  [90m4 |[0m [36mexport[0m [36mfunction[0m [33mProductsSection[0m() {
+  [90m5 |[0m   [36mreturn[0m (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[browser] Uncaught Error: ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  1 | import { ProductCard } from "@/components/sections/product-card";
+> 2 | import { productCatalog } from "@/features/products/product-catalog";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function ProductsSection() {
+  5 |   return (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+    at <unknown> (Error: ./src/components/sections/products-section.tsx:2:1)
+    at <unknown> (https://nextjs.org/docs/messages/module-not-found)
+    at <unknown> (Error: (./src/components/sections/products-section.tsx:2:1)
+    at <unknown> (https://nextjs.org/docs/messages/module-not-found)
+[browser] Uncaught Error: ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  1 | import { ProductCard } from "@/components/sections/product-card";
+> 2 | import { productCatalog } from "@/features/products/product-catalog";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function ProductsSection() {
+  5 |   return (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+    at <unknown> (Error: ./src/components/sections/products-section.tsx:2:1)
+    at <unknown> (https://nextjs.org/docs/messages/module-not-found)
+    at <unknown> (Error: (./src/components/sections/products-section.tsx:2:1)
+    at <unknown> (https://nextjs.org/docs/messages/module-not-found)
+[browser] ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  1 | import { ProductCard } from "@/components/sections/product-card";
+> 2 | import { productCatalog } from "@/features/products/product-catalog";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function ProductsSection() {
+  5 |   return (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  1 | import { ProductCard } from "@/components/sections/product-card";
+> 2 | import { productCatalog } from "@/features/products/product-catalog";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function ProductsSection() {
+  5 |   return (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  1 | import { ProductCard } from "@/components/sections/product-card";
+> 2 | import { productCatalog } from "@/features/products/product-catalog";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function ProductsSection() {
+  5 |   return (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  1 | import { ProductCard } from "@/components/sections/product-card";
+> 2 | import { productCatalog } from "@/features/products/product-catalog";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function ProductsSection() {
+  5 |   return (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  1 | import { ProductCard } from "@/components/sections/product-card";
+> 2 | import { productCatalog } from "@/features/products/product-catalog";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function ProductsSection() {
+  5 |   return (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  1 | import { ProductCard } from "@/components/sections/product-card";
+> 2 | import { productCatalog } from "@/features/products/product-catalog";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function ProductsSection() {
+  5 |   return (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  1 | import { ProductCard } from "@/components/sections/product-card";
+> 2 | import { productCatalog } from "@/features/products/product-catalog";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function ProductsSection() {
+  5 |   return (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  1 | import { ProductCard } from "@/components/sections/product-card";
+> 2 | import { productCatalog } from "@/features/products/product-catalog";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function ProductsSection() {
+  5 |   return (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  1 | import { ProductCard } from "@/components/sections/product-card";
+> 2 | import { productCatalog } from "@/features/products/product-catalog";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function ProductsSection() {
+  5 |   return (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  1 | import { ProductCard } from "@/components/sections/product-card";
+> 2 | import { productCatalog } from "@/features/products/product-catalog";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function ProductsSection() {
+  5 |   return (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  1 | import { ProductCard } from "@/components/sections/product-card";
+> 2 | import { productCatalog } from "@/features/products/product-catalog";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function ProductsSection() {
+  5 |   return (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  1 | import { ProductCard } from "@/components/sections/product-card";
+> 2 | import { productCatalog } from "@/features/products/product-catalog";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function ProductsSection() {
+  5 |   return (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  1 | import { ProductCard } from "@/components/sections/product-card";
+> 2 | import { productCatalog } from "@/features/products/product-catalog";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function ProductsSection() {
+  5 |   return (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  1 | import { ProductCard } from "@/components/sections/product-card";
+> 2 | import { productCatalog } from "@/features/products/product-catalog";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function ProductsSection() {
+  5 |   return (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found 
+⨯ ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  [90m1 |[0m [36mimport[0m { [33mProductCard[0m } [36mfrom[0m [32m"@/components/sections/product-card"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m { productCatalog } [36mfrom[0m [32m"@/features/products/product-catalog"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m
+  [90m4 |[0m [36mexport[0m [36mfunction[0m [33mProductsSection[0m() {
+  [90m5 |[0m   [36mreturn[0m (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[browser] Uncaught Error: ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  1 | import { ProductCard } from "@/components/sections/product-card";
+> 2 | import { productCatalog } from "@/features/products/product-catalog";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function ProductsSection() {
+  5 |   return (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+    at <unknown> (Error: ./src/components/sections/products-section.tsx:2:1)
+    at <unknown> (https://nextjs.org/docs/messages/module-not-found)
+    at <unknown> (Error: (./src/components/sections/products-section.tsx:2:1)
+    at <unknown> (https://nextjs.org/docs/messages/module-not-found)
+[browser] ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  1 | import { ProductCard } from "@/components/sections/product-card";
+> 2 | import { productCatalog } from "@/features/products/product-catalog";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function ProductsSection() {
+  5 |   return (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  1 | import { ProductCard } from "@/components/sections/product-card";
+> 2 | import { productCatalog } from "@/features/products/product-catalog";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function ProductsSection() {
+  5 |   return (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  1 | import { ProductCard } from "@/components/sections/product-card";
+> 2 | import { productCatalog } from "@/features/products/product-catalog";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function ProductsSection() {
+  5 |   return (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  1 | import { ProductCard } from "@/components/sections/product-card";
+> 2 | import { productCatalog } from "@/features/products/product-catalog";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function ProductsSection() {
+  5 |   return (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  1 | import { ProductCard } from "@/components/sections/product-card";
+> 2 | import { productCatalog } from "@/features/products/product-catalog";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function ProductsSection() {
+  5 |   return (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  1 | import { ProductCard } from "@/components/sections/product-card";
+> 2 | import { productCatalog } from "@/features/products/product-catalog";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function ProductsSection() {
+  5 |   return (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  1 | import { ProductCard } from "@/components/sections/product-card";
+> 2 | import { productCatalog } from "@/features/products/product-catalog";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function ProductsSection() {
+  5 |   return (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  1 | import { ProductCard } from "@/components/sections/product-card";
+> 2 | import { productCatalog } from "@/features/products/product-catalog";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function ProductsSection() {
+  5 |   return (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  1 | import { ProductCard } from "@/components/sections/product-card";
+> 2 | import { productCatalog } from "@/features/products/product-catalog";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function ProductsSection() {
+  5 |   return (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found 
+⨯ ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  [90m1 |[0m [36mimport[0m { [33mProductCard[0m } [36mfrom[0m [32m"@/components/sections/product-card"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m { productCatalog } [36mfrom[0m [32m"@/features/products/product-catalog"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m
+  [90m4 |[0m [36mexport[0m [36mfunction[0m [33mProductsSection[0m() {
+  [90m5 |[0m   [36mreturn[0m (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[browser] Uncaught Error: ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  1 | import { ProductCard } from "@/components/sections/product-card";
+> 2 | import { productCatalog } from "@/features/products/product-catalog";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function ProductsSection() {
+  5 |   return (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+    at <unknown> (Error: ./src/components/sections/products-section.tsx:2:1)
+    at <unknown> (https://nextjs.org/docs/messages/module-not-found)
+    at <unknown> (Error: (./src/components/sections/products-section.tsx:2:1)
+    at <unknown> (https://nextjs.org/docs/messages/module-not-found)
+[browser] ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  1 | import { ProductCard } from "@/components/sections/product-card";
+> 2 | import { productCatalog } from "@/features/products/product-catalog";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function ProductsSection() {
+  5 |   return (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./src/components/sections/products-section.tsx:2:1
+Error: Module not found: Can't resolve '@/features/products/product-catalog'
+  1 | import { ProductCard } from "@/components/sections/product-card";
+> 2 | import { productCatalog } from "@/features/products/product-catalog";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function ProductsSection() {
+  5 |   return (
+
+Import map: aliased to relative './src/features/products/product-catalog' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./src/components/sections/products-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found 
+⨯ ./src/app/page.tsx:4:1
+Error: Module not found: Can't resolve '@/components/sections/products-section'
+  [90m2 |[0m [36mimport[0m { [33mCultivationSection[0m } [36mfrom[0m [32m"@/components/sections/cultivation-section"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeroSection[0m } [36mfrom[0m [32m"@/components/sections/hero-section"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mProductsSection[0m } [36mfrom[0m [32m"@/components/sections/products-section"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mTechnologySection[0m } [36mfrom[0m [32m"@/components/sections/technology-section"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mHome[0m() {
+
+Import map: aliased to relative './src/components/sections/products-section' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:4:1
+Error: Module not found: Can't resolve '@/components/sections/products-section'
+  [90m2 |[0m [36mimport[0m { [33mCultivationSection[0m } [36mfrom[0m [32m"@/components/sections/cultivation-section"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeroSection[0m } [36mfrom[0m [32m"@/components/sections/hero-section"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mProductsSection[0m } [36mfrom[0m [32m"@/components/sections/products-section"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mTechnologySection[0m } [36mfrom[0m [32m"@/components/sections/technology-section"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mHome[0m() {
+
+Import map: aliased to relative './src/components/sections/products-section' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:4:1
+Error: Module not found: Can't resolve '@/components/sections/products-section'
+  [90m2 |[0m [36mimport[0m { [33mCultivationSection[0m } [36mfrom[0m [32m"@/components/sections/cultivation-section"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeroSection[0m } [36mfrom[0m [32m"@/components/sections/hero-section"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mProductsSection[0m } [36mfrom[0m [32m"@/components/sections/products-section"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mTechnologySection[0m } [36mfrom[0m [32m"@/components/sections/technology-section"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mHome[0m() {
+
+Import map: aliased to relative './src/components/sections/products-section' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:4:1
+Error: Module not found: Can't resolve '@/components/sections/products-section'
+  [90m2 |[0m [36mimport[0m { [33mCultivationSection[0m } [36mfrom[0m [32m"@/components/sections/cultivation-section"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeroSection[0m } [36mfrom[0m [32m"@/components/sections/hero-section"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mProductsSection[0m } [36mfrom[0m [32m"@/components/sections/products-section"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mTechnologySection[0m } [36mfrom[0m [32m"@/components/sections/technology-section"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mHome[0m() {
+
+Import map: aliased to relative './src/components/sections/products-section' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:4:1
+Error: Module not found: Can't resolve '@/components/sections/products-section'
+  [90m2 |[0m [36mimport[0m { [33mCultivationSection[0m } [36mfrom[0m [32m"@/components/sections/cultivation-section"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeroSection[0m } [36mfrom[0m [32m"@/components/sections/hero-section"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mProductsSection[0m } [36mfrom[0m [32m"@/components/sections/products-section"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mTechnologySection[0m } [36mfrom[0m [32m"@/components/sections/technology-section"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mHome[0m() {
+
+Import map: aliased to relative './src/components/sections/products-section' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:4:1
+Error: Module not found: Can't resolve '@/components/sections/products-section'
+  [90m2 |[0m [36mimport[0m { [33mCultivationSection[0m } [36mfrom[0m [32m"@/components/sections/cultivation-section"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeroSection[0m } [36mfrom[0m [32m"@/components/sections/hero-section"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mProductsSection[0m } [36mfrom[0m [32m"@/components/sections/products-section"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mTechnologySection[0m } [36mfrom[0m [32m"@/components/sections/technology-section"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mHome[0m() {
+
+Import map: aliased to relative './src/components/sections/products-section' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+

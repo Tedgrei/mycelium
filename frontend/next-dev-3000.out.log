@@ -1,0 +1,37 @@
+
+> mycelium@0.1.0 dev
+> next dev --hostname 127.0.0.1 --port 3000
+
+▲ Next.js 16.3.4 (Turbopack)
+- Local:         http://127.0.0.1:3000
+- Network:       http://127.0.0.1:3000
+✓ Ready in 3.2s
+✓ Running next.config.ts took 104ms
+Creating turbopack project { dir: 'E:\\ProjetoLuis\\mycelium\\frontend', testMode: true }
+
+○ Compiling / ...
+ GET / 200 in 12.7s (next.js: 12.4s, application-code: 266ms)
+ GET / 200 in 183ms (next.js: 74ms, application-code: 108ms)
+ GET / 200 in 537ms (next.js: 346ms, application-code: 191ms)
+ GET / 200 in 105ms (next.js: 8ms, application-code: 98ms)
+ GET / 200 in 341ms (next.js: 65ms, application-code: 276ms)
+  Reload env: .env
+✓ Compiled in 7.9s
+ GET / 200 in 401ms (next.js: 321ms, application-code: 80ms)
+ GET / 200 in 8.9s (next.js: 8.3s, application-code: 531ms)
+ GET / 200 in 415ms (next.js: 7ms, application-code: 408ms)
+✓ Compiled in 3.7s
+○ Compiling /_error ...
+ GET / 500 in 27.8s (next.js: 26.4s, application-code: 1413ms)
+  Reload env: .env.local
+✓ Compiled in 9.3s
+ GET / 500 in 3.9s (next.js: 3.9s, application-code: 87ms)
+ GET / 500 in 118ms (next.js: 87ms, application-code: 31ms)
+✓ Finished filesystem cache database compaction in 15.1s
+ GET / 500 in 190ms (next.js: 136ms, application-code: 54ms)
+ GET / 500 in 390ms (next.js: 374ms, application-code: 16ms)
+ GET / 200 in 1140ms (next.js: 557ms, application-code: 584ms)
+✓ Compiled in 1353ms
+ GET / 200 in 106ms (next.js: 14ms, application-code: 92ms)
+ GET / 200 in 83ms (next.js: 17ms, application-code: 67ms)
+✓ Compiled in 280ms

@@ -1,0 +1,25 @@
+
+> mycelium@0.1.0 dev
+> next dev --hostname 127.0.0.1 --port 3000
+
+▲ Next.js 16.3.4 (Turbopack)
+- Local:         http://127.0.0.1:3000
+- Network:       http://127.0.0.1:3000
+✓ Ready in 1843ms
+✓ Running next.config.ts took 39ms
+Creating turbopack project { dir: 'E:\\ProjetoLuis\\mycelium\\frontend', testMode: true }
+
+○ Compiling / ...
+ GET / 200 in 6.0s (next.js: 5.7s, application-code: 292ms)
+ GET / 200 in 1154ms (next.js: 206ms, application-code: 948ms)
+ GET / 200 in 210ms (next.js: 12ms, application-code: 198ms)
+ GET / 200 in 18ms (next.js: 8ms, application-code: 11ms)
+ GET / 200 in 12ms (next.js: 5ms, application-code: 7ms)
+ GET / 200 in 53ms (next.js: 5ms, application-code: 48ms)
+ GET / 200 in 13ms (next.js: 5ms, application-code: 8ms)
+ GET / 200 in 34ms (next.js: 23ms, application-code: 11ms)
+ GET / 200 in 19ms (next.js: 8ms, application-code: 11ms)
+ GET / 200 in 13ms (next.js: 6ms, application-code: 7ms)
+ GET / 200 in 152ms (next.js: 7ms, application-code: 145ms)
+ GET / 200 in 5.3s (next.js: 2.4s, application-code: 3.0s)
+ GET / 200 in 229ms (next.js: 20ms, application-code: 209ms)
